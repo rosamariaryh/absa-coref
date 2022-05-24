@@ -1,6 +1,6 @@
 # absa-coref
 
-Experiments for aspect-based sentiment analysis with coreference resolution.
+Experiments for aspect-based sentiment analysis with coreference resolution. Master's thesis 2022 for the Language Analysis and Processing programme at the faculty of Informatics at the University of the Basque Country.
 
 This repository includes material for opinion target extraction and aspect category detection.
 
