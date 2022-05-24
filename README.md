@@ -1,6 +1,6 @@
 # absa-coref
 
-This repository includes material for aspect-based sentiment analysis experiments applying coreference resolution. This is part of my Master's thesis due in June 2022 for the Language Analysis and Processing programme at the Faculty of Informatics at the University of the Basque Country. The data is based on the English restaurant reviews from the SemEval-2016 ABSA task. AllenNLP's coreference resolution model was used to find coreferential links in the texts.
+This repository includes material for aspect-based sentiment analysis experiments applying coreference resolution. The data is based on the English restaurant reviews from the SemEval-2016 ABSA task. AllenNLP's coreference resolution model was used to find coreferential links in the texts.
 
 The following tasks are covered:
 
