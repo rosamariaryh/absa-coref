@@ -1,8 +1,12 @@
 # absa-coref
 
-Experiments for aspect-based sentiment analysis with coreference resolution. Master's thesis 2022 for the Language Analysis and Processing programme at the faculty of Informatics at the University of the Basque Country.
+This repository includes material for aspect-based sentiment analysis experiments applying coreference resolution. These are part of my Master's thesis due in June 2022 for the Language Analysis and Processing programme at the Faculty of Informatics at the University of the Basque Country.
 
-This repository includes material for opinion target extraction and aspect category detection.
+The material includes for opinion target extraction and aspect category detection.
+
+1. Opinion target extraction as sequence labelling task
+2. Aspect category detection as a multi-class classification task
+3. Aspect category detection as a multi-label classification task
 
 ## Multi-label classification
 
