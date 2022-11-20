@@ -8,3 +8,6 @@ The following tasks are covered:
 2. Opinion target extraction & aspect category detection as a sequence labelling task 
 3. Aspect category detection as a multi-class classification task
 4. Aspect category detection as a multi-label classification task
+
+
+Original ABSA SemEval datasets (2014, 2015 and 2016) are available: https://github.com/howardhsu/ABSA_preprocessing  
